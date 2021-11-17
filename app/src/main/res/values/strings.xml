@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Us</string>
+    <string name="enrollno">20SOECA21038</string>
+    <string name="name">Janvi Sojitra</string>
+    <string name="email">jsojitra298@rku.ac.in</string>
+    <string name="password">Janvi1234</string>
+    <string name="gender">Female</string>
+    <string name="city">Rajkot</string>
+</resources>
